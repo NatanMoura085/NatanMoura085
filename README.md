@@ -13,7 +13,7 @@
 </div>
   
 
-  ## Tecnologias que eu uso no meu dia
+  ## Tecnologias que eu uso no meu dia.
   <div style="display: inline_block"><br>
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -41,7 +41,7 @@
   
 </div>
   
-  ## Snake eating my contribution graph
+  ## Passionate about software architecture.
   
   ![Snake animation](https://github.com/NatanMoura085/NatanMoura085/blob/output/github-contribution-grid-snake.svg)
  

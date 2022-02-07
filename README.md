@@ -1,8 +1,8 @@
-### Hello i'm Natan👋
+### Hello i'm Natan🐱‍🚀🖖
 
 
 
--  &#128104;&#8205;&#128187; FullStack Developer...
+-  &#128104;&#8205;&#128187; FullStack Developer
 
 
 

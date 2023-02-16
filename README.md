@@ -1,6 +1,6 @@
 ### Hello i'm Natan🐱‍🚀🖖
 
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 -  &#128104;&#8205;&#128187; FullStack Developer
 
@@ -11,7 +11,7 @@
   <a href="https://github.com/NatanMoura085">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=NatanMoura085&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-  
+ 
 
   ## Tecnologias que eu uso no meu dia.
   <div style="display: inline_block"><br>
@@ -45,5 +45,6 @@
   
   ![Snake animation](https://github.com/NatanMoura085/NatanMoura085/blob/output/github-contribution-grid-snake.svg)
  
+
   
   
